@@ -13,7 +13,7 @@ This was built as a self-directed portfolio piece ahead of applying for a Resear
 | File | Description |
 |---|---|
 | [`Illustrative Evaluation Framework.pdf`](Illustrative%20Evaluation%20Framework.pdf) | Full written evaluation report — logic model, evaluation questions, quantitative and qualitative findings, equity considerations, and recommendations |
-| [`synthetic_saor_data.csv`](synthetic_saor_data.csv) | The 30-row synthetic patient dataset behind the quantitative findings |
+| [`synthetic_saor_data.csv`](https://github.com/nayana-doctor/saor-ebi-evaluation-framework/blob/main/SAOR%20dataset.pdf) | The 30-row synthetic patient dataset behind the quantitative findings |
 
 ## The evaluation framework
 
